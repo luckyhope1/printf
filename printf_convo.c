@@ -10,10 +10,9 @@
 int printf_convo(void)
 {
 	int num = 10;
+	int num2 = -5;
 
 	printf("The value of num is: %d\n", num);
-
-	int num2 = -5;
 
 	printf("The value of num2 is: %i\n", num2);
 
