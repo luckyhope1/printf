@@ -24,5 +24,6 @@ typedef struct format
 
 int _putchar(char c);
 int _printf(const char *format, ...);
+int printf_convo(void);
 
 #endif
